@@ -1,0 +1,24 @@
+.f-size{
+    font-size: small;
+    font-weight: bold;
+}
+ul{
+    display: inline;
+}
+li{
+    border-radius: 5px;
+    color: rgb(61, 61, 61);
+}
+li:hover{
+    color: white;
+    background-color: rgb(2, 117, 216);
+    transition: 0.5s ease;
+}
+img{
+    height: 33px;
+    width: 33px;
+    
+}
+.banner{
+    display: flex;
+}
