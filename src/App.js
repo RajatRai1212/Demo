@@ -9,7 +9,8 @@ import 'bootstrap/dist/js/bootstrap.js';
   return (
     <div className="App">
     <SearchBar/>
-    <SideBar/>
+    <Dashboard/>
+    
     </div>
   );
 }

@@ -1,6 +1,6 @@
 .f-size{
     font-size: small;
-    font-weight: bold;
+    
 }
 ul{
     display: inline;
@@ -8,6 +8,7 @@ ul{
 li{
     border-radius: 5px;
     color: rgb(61, 61, 61);
+    list-style-type: none;
 }
 li:hover{
     color: white;
