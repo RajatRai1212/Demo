@@ -1,0 +1,30 @@
+.searchbar{
+    display: flex;
+    
+    
+}
+
+input{
+    width: 100%;
+    border: none;
+    outline: none;
+
+}
+.searchDiv{
+    width: 71%;
+
+}
+.searchbar{
+    border-bottom: 2px lightgray;
+}
+p{
+    text-align: center;
+    font-size: small;
+}
+.icon{
+    color: rgb(173, 171, 171);
+}
+.icon:hover{
+    color:#382BDB;
+    transition: 0.5s ease;
+}

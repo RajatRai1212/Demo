@@ -1,18 +1,21 @@
 .f-size{
     font-size: small;
-    
+    color: rgb(59, 57, 57);
 }
+    
+
 ul{
     display: inline;
+    background-color: rgb(255,255,255);
 }
 li{
     border-radius: 5px;
-    color: rgb(61, 61, 61);
+    color: rgb(7, 7, 7);
     list-style-type: none;
 }
 li:hover{
     color: white;
-    background-color: rgb(2, 117, 216);
+    background-color:#382BDB;
     transition: 0.5s ease;
 }
 img{
@@ -22,4 +25,8 @@ img{
 }
 .banner{
     display: flex;
+    border-bottom: 3px solid gray;
+}
+.removes{
+    text-decoration: none;
 }
